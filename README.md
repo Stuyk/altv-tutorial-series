@@ -1,4 +1,4 @@
-## alt:V - Quick Start
+## alt:V - Udemy Repository
 
 This repo will do everything for you; including download the latest server files.
 
